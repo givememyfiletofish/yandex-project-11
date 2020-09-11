@@ -1,6 +1,6 @@
 # Social ImageSharing App (react)
 
- Live Version: http://iralvin.github.io/Social-ImageSharing-App
+ Live Version: 
 
 This is a social media app that allows various users to upload images for others to view. Users may change their name/description as well. The add button will prompt user to add a location name and image link. If input fields are left empty, no changes will be made when submitted. Each image uploaded tracks it's "owner" as well as how many users have "liked" the image.
 
